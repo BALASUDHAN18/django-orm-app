@@ -5,6 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 Entity Relationship Diagram
 output
+![bala1](https://user-images.githubusercontent.com/118807740/215250421-e02f1eb1-ab44-45fc-be6f-ee5557c128e9.png)
 
 DESIGN STEPS
 STEP 1:
@@ -37,9 +38,8 @@ OUTPUT
 Carsinfo
 ```
 output
-
-program output
-output
+![bala2](https://user-images.githubusercontent.com/118807740/215250447-904c7da1-cb51-4190-b3cb-2402c0b8719a.png)
+![bala3](https://user-images.githubusercontent.com/118807740/215250458-3bbd3ab2-129d-4e6b-8e6d-3057eb935c81.png)
 
 RESULT
 The program was executed successfully.
