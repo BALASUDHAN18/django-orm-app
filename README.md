@@ -38,7 +38,8 @@ OUTPUT
 Carsinfo
 ```
 output
-![bala2](https://user-images.githubusercontent.com/118807740/215250510-7a76e4f3-7a66-4279-87d0-58e9b83df4a4.png)
+![bala2](https://user-images.githubusercontent.com/118807740/215270001-5edcb912-dcde-43ce-b92b-0e8d4b93c5f1.png)
+
 ![bala3](https://user-images.githubusercontent.com/118807740/215250525-d7051990-b7c9-4a07-822d-209b8d25fc60.png)
 
 RESULT
