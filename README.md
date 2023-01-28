@@ -1,29 +1,45 @@
 # Django ORM Web Application
 
-## AIM
+AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
+Entity Relationship Diagram
+output
 
-Include your ER diagram here
+DESIGN STEPS
+STEP 1:
+Created table and inserted values to it in the django applications
 
-## DESIGN STEPS
+STEP 2:
+Implementation of python code in README.md file
 
-### STEP 1:
+STEP 3:
+Uploading the necessary files
 
-### STEP 2:
+STEP 4:
+Pushing it to the github account
 
-### STEP 3:
+PROGRAM
+```
+from django.db import models
+from django.contrib import admin
+# Create your models here.
+class Carsinfo(models.Model):
+    registrationno = models.CharField(max_length=10,primary_key=True)
+    brandname = models.CharField(max_length=100)
+    mileage = models.IntegerField()
+    dateofmanufacture = models.DateField()
+    modelname = models.CharField(max_length=100)
 
-Write your own steps
+class CarsinfoAdmin(admin.ModelAdmin):
+    list_display = ('registrationno','brandname','mileage','dateofmanufacture','modelname')
+OUTPUT
+Carsinfo
+```
+output
 
-## PROGRAM
+program output
+output
 
-Include your code here
-
-## OUTPUT
-
-Include the screenshot of your admin page.
-
-
-## RESULT
+RESULT
+The program was executed successfully.
