@@ -38,8 +38,8 @@ OUTPUT
 Carsinfo
 ```
 output
-![bala2](https://user-images.githubusercontent.com/118807740/215250447-904c7da1-cb51-4190-b3cb-2402c0b8719a.png)
-![bala3](https://user-images.githubusercontent.com/118807740/215250458-3bbd3ab2-129d-4e6b-8e6d-3057eb935c81.png)
+![bala2](https://user-images.githubusercontent.com/118807740/215250510-7a76e4f3-7a66-4279-87d0-58e9b83df4a4.png)
+![bala3](https://user-images.githubusercontent.com/118807740/215250525-d7051990-b7c9-4a07-822d-209b8d25fc60.png)
 
 RESULT
 The program was executed successfully.
